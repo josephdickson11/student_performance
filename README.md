@@ -7,6 +7,11 @@ Ideation:
 Education Sector globally needs a major reform as conventional schools have been seen to produce redundancy and not
 develop inherent talents in students.
 
+Work Body:
+This project will strictly work to accomplish two major goals namely;
+--- Carryout EDA on the dataset
+--- Create Models to make predictive inferences
+
 Understanding the performance of students will provide an insight as to what is being done wrong and profer possible
 solutions.
 
